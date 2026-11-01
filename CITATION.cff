@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Model Predictive Path Integral (MPPI) Control"
+abstract: "Sampling-based MPPI control that drives a car along a course and around obstacles, with tests that check its answers."
+authors:
+  - family-names: Trivedi
+    given-names: Mahim
+version: 1.0.0
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/robofan45/mppi-control"
+keywords:
+  - mppi
+  - model-predictive-control
+  - path-tracking
+  - autonomous-vehicles
+  - robotics
+  - python

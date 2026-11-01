@@ -1,0 +1,702 @@
+{
+  "demo_seed_3": {
+    "finished": true,
+    "time": 16.3,
+    "min_gap": 0.8000336705602538,
+    "course_distance_clear": 0.38937796755174997,
+    "median_ess": 113.45188005949505,
+    "steps": 163,
+    "max_steer_deg": 20.239302723485206,
+    "max_steer_rate_deg_s": 30.24958735538961,
+    "runtime_s": 0.4513366000028327,
+    "ms_per_step": 2.768936196336397
+  },
+  "sample_snapshot": {
+    "effective_sample_size": 38.58713216337737,
+    "samples": 300
+  },
+  "seed_study": {
+    "along_course": {
+      "finished": "20/20",
+      "worst_time": 16.5,
+      "mean_time": 16.304999999999996,
+      "worst_gap": 0.7932345400429972,
+      "worst_course_distance": 0.510581578469772,
+      "median_ess": 113.61667573912888
+    },
+    "raw_speed": {
+      "finished": "20/20",
+      "worst_time": 17.400000000000002,
+      "mean_time": 17.21,
+      "worst_gap": 0.7960561568870672,
+      "worst_course_distance": 0.5504231863764958,
+      "median_ess": 139.7991058314784
+    },
+    "gamma_equals_lambda": {
+      "finished": "20/20",
+      "worst_time": 20.900000000000002,
+      "mean_time": 19.690000000000005,
+      "worst_gap": 0.6181587765449275,
+      "worst_course_distance": 2.5718208760754377,
+      "median_ess": 2.5641451337235597
+    },
+    "raw_speed_gamma_equals_lambda": {
+      "finished": "16/20",
+      "worst_time": 36.4,
+      "mean_time": 24.15625,
+      "worst_gap": 0.5522847996756577,
+      "worst_course_distance": 2.6337525960350225,
+      "median_ess": 2.5159703258601605
+    }
+  },
+  "seed_rows": {
+    "along_course": [
+      {
+        "seed": 0,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8247725605005505,
+        "course_distance_clear": 0.3916615439300283,
+        "median_ess": 114.09664313772635
+      },
+      {
+        "seed": 1,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8312617548098047,
+        "course_distance_clear": 0.3985027888396425,
+        "median_ess": 113.67527629039441
+      },
+      {
+        "seed": 2,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8328903204400506,
+        "course_distance_clear": 0.510581578469772,
+        "median_ess": 113.95103937615906
+      },
+      {
+        "seed": 3,
+        "finished": true,
+        "time": 16.3,
+        "min_gap": 0.8000336705602538,
+        "course_distance_clear": 0.38937796755174997,
+        "median_ess": 113.45188005949505
+      },
+      {
+        "seed": 4,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8235282360582341,
+        "course_distance_clear": 0.46100802043026123,
+        "median_ess": 114.46121127893406
+      },
+      {
+        "seed": 5,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8486658174465134,
+        "course_distance_clear": 0.41699611404381554,
+        "median_ess": 113.61893421098125
+      },
+      {
+        "seed": 6,
+        "finished": true,
+        "time": 16.5,
+        "min_gap": 0.8331296038809859,
+        "course_distance_clear": 0.4653251983685297,
+        "median_ess": 115.42822912334985
+      },
+      {
+        "seed": 7,
+        "finished": true,
+        "time": 16.3,
+        "min_gap": 0.8224740058284248,
+        "course_distance_clear": 0.35539157095493606,
+        "median_ess": 114.44034765948227
+      },
+      {
+        "seed": 8,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8464805266250439,
+        "course_distance_clear": 0.4108518603005615,
+        "median_ess": 112.81178450801718
+      },
+      {
+        "seed": 9,
+        "finished": true,
+        "time": 16.3,
+        "min_gap": 0.8162034959108804,
+        "course_distance_clear": 0.4273627459472173,
+        "median_ess": 113.61441726727652
+      },
+      {
+        "seed": 10,
+        "finished": true,
+        "time": 16.3,
+        "min_gap": 0.8331429602675888,
+        "course_distance_clear": 0.411967939646904,
+        "median_ess": 110.46001219509077
+      },
+      {
+        "seed": 11,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8374939127524261,
+        "course_distance_clear": 0.46097011698714263,
+        "median_ess": 112.9794063737738
+      },
+      {
+        "seed": 12,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8373708947181966,
+        "course_distance_clear": 0.42676175175173736,
+        "median_ess": 115.19353233851567
+      },
+      {
+        "seed": 13,
+        "finished": true,
+        "time": 16.1,
+        "min_gap": 0.8241414862297625,
+        "course_distance_clear": 0.40860112719759917,
+        "median_ess": 115.65422447550908
+      },
+      {
+        "seed": 14,
+        "finished": true,
+        "time": 16.3,
+        "min_gap": 0.8149458975180945,
+        "course_distance_clear": 0.40674318613530125,
+        "median_ess": 111.94027945894163
+      },
+      {
+        "seed": 15,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8374684636963086,
+        "course_distance_clear": 0.34732365793406206,
+        "median_ess": 112.3793285647229
+      },
+      {
+        "seed": 16,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8215598308568215,
+        "course_distance_clear": 0.4691055083501054,
+        "median_ess": 112.70144004778382
+      },
+      {
+        "seed": 17,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.7932345400429972,
+        "course_distance_clear": 0.39114192370136,
+        "median_ess": 112.92095787094904
+      },
+      {
+        "seed": 18,
+        "finished": true,
+        "time": 16.2,
+        "min_gap": 0.8313150475086089,
+        "course_distance_clear": 0.4392745458572826,
+        "median_ess": 113.48024240542841
+      },
+      {
+        "seed": 19,
+        "finished": true,
+        "time": 16.400000000000002,
+        "min_gap": 0.8355827390980821,
+        "course_distance_clear": 0.40111902041229713,
+        "median_ess": 113.69358366545808
+      }
+    ],
+    "raw_speed": [
+      {
+        "seed": 0,
+        "finished": true,
+        "time": 17.0,
+        "min_gap": 0.8143908573235932,
+        "course_distance_clear": 0.43398550535163155,
+        "median_ess": 140.4371960834323
+      },
+      {
+        "seed": 1,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.799365358308685,
+        "course_distance_clear": 0.5022465755509868,
+        "median_ess": 139.1096531248864
+      },
+      {
+        "seed": 2,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.8193396094962739,
+        "course_distance_clear": 0.5395544396353358,
+        "median_ess": 140.2729923956557
+      },
+      {
+        "seed": 3,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.8157214344057613,
+        "course_distance_clear": 0.4862666407952639,
+        "median_ess": 141.4007903791467
+      },
+      {
+        "seed": 4,
+        "finished": true,
+        "time": 17.1,
+        "min_gap": 0.8377018915903502,
+        "course_distance_clear": 0.5236498333792683,
+        "median_ess": 139.23138201577922
+      },
+      {
+        "seed": 5,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.824488010760634,
+        "course_distance_clear": 0.5076840763581698,
+        "median_ess": 138.18555869937842
+      },
+      {
+        "seed": 6,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.8215988569868025,
+        "course_distance_clear": 0.549086516319457,
+        "median_ess": 141.9756506353309
+      },
+      {
+        "seed": 7,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.816963272788626,
+        "course_distance_clear": 0.4998060534504291,
+        "median_ess": 141.370399473353
+      },
+      {
+        "seed": 8,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.8353541170812575,
+        "course_distance_clear": 0.5076655875174466,
+        "median_ess": 140.39597529431379
+      },
+      {
+        "seed": 9,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.8324524768739743,
+        "course_distance_clear": 0.46868651282884866,
+        "median_ess": 140.0058385518112
+      },
+      {
+        "seed": 10,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.825743047063723,
+        "course_distance_clear": 0.46346151839373534,
+        "median_ess": 137.97591891581473
+      },
+      {
+        "seed": 11,
+        "finished": true,
+        "time": 17.400000000000002,
+        "min_gap": 0.8117058605917553,
+        "course_distance_clear": 0.5028948983731629,
+        "median_ess": 138.97274252484266
+      },
+      {
+        "seed": 12,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.8281999419842727,
+        "course_distance_clear": 0.5212872313675696,
+        "median_ess": 139.4485623962386
+      },
+      {
+        "seed": 13,
+        "finished": true,
+        "time": 17.0,
+        "min_gap": 0.8090420965325829,
+        "course_distance_clear": 0.5051806479284306,
+        "median_ess": 134.70225258605836
+      },
+      {
+        "seed": 14,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.7960561568870672,
+        "course_distance_clear": 0.4718358212455138,
+        "median_ess": 140.75979931380246
+      },
+      {
+        "seed": 15,
+        "finished": true,
+        "time": 17.1,
+        "min_gap": 0.8443063380216336,
+        "course_distance_clear": 0.4688247267372531,
+        "median_ess": 138.42983356786434
+      },
+      {
+        "seed": 16,
+        "finished": true,
+        "time": 17.1,
+        "min_gap": 0.8337593712124136,
+        "course_distance_clear": 0.5357179213416398,
+        "median_ess": 140.91064171390528
+      },
+      {
+        "seed": 17,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.8010172683985151,
+        "course_distance_clear": 0.4437364088796269,
+        "median_ess": 139.65418142994656
+      },
+      {
+        "seed": 18,
+        "finished": true,
+        "time": 17.2,
+        "min_gap": 0.8246539420189916,
+        "course_distance_clear": 0.5504231863764958,
+        "median_ess": 139.94403023301027
+      },
+      {
+        "seed": 19,
+        "finished": true,
+        "time": 17.3,
+        "min_gap": 0.8277296873290727,
+        "course_distance_clear": 0.5097131784939708,
+        "median_ess": 139.2807220168388
+      }
+    ],
+    "gamma_equals_lambda": [
+      {
+        "seed": 0,
+        "finished": true,
+        "time": 19.700000000000003,
+        "min_gap": 0.6476758674138285,
+        "course_distance_clear": 2.110473027034186,
+        "median_ess": 2.158808835073546
+      },
+      {
+        "seed": 1,
+        "finished": true,
+        "time": 19.5,
+        "min_gap": 0.7645449861051279,
+        "course_distance_clear": 1.3828446544095174,
+        "median_ess": 2.397820607257814
+      },
+      {
+        "seed": 2,
+        "finished": true,
+        "time": 19.400000000000002,
+        "min_gap": 0.6844266934216796,
+        "course_distance_clear": 2.5718208760754377,
+        "median_ess": 2.821846959942775
+      },
+      {
+        "seed": 3,
+        "finished": true,
+        "time": 20.400000000000002,
+        "min_gap": 0.7383278186592521,
+        "course_distance_clear": 1.1249048038718452,
+        "median_ess": 2.0564980555777437
+      },
+      {
+        "seed": 4,
+        "finished": true,
+        "time": 19.3,
+        "min_gap": 0.7383689434381535,
+        "course_distance_clear": 1.5438645371439468,
+        "median_ess": 2.193421679492665
+      },
+      {
+        "seed": 5,
+        "finished": true,
+        "time": 19.8,
+        "min_gap": 0.6876052503915793,
+        "course_distance_clear": 0.7722040679301378,
+        "median_ess": 2.2829526374614515
+      },
+      {
+        "seed": 6,
+        "finished": true,
+        "time": 20.900000000000002,
+        "min_gap": 0.6614476459949545,
+        "course_distance_clear": 1.4450212538902132,
+        "median_ess": 3.267068675077679
+      },
+      {
+        "seed": 7,
+        "finished": true,
+        "time": 19.700000000000003,
+        "min_gap": 0.747338666955945,
+        "course_distance_clear": 1.5721800720394596,
+        "median_ess": 5.236812639380211
+      },
+      {
+        "seed": 8,
+        "finished": true,
+        "time": 19.700000000000003,
+        "min_gap": 0.7263183889795195,
+        "course_distance_clear": 1.7464649336729854,
+        "median_ess": 3.637529163138088
+      },
+      {
+        "seed": 9,
+        "finished": true,
+        "time": 18.6,
+        "min_gap": 0.8102119689555518,
+        "course_distance_clear": 1.1273601368043957,
+        "median_ess": 2.85086179230513
+      },
+      {
+        "seed": 10,
+        "finished": true,
+        "time": 18.7,
+        "min_gap": 0.7070794724150782,
+        "course_distance_clear": 1.621745242268877,
+        "median_ess": 1.914288246104342
+      },
+      {
+        "seed": 11,
+        "finished": true,
+        "time": 19.700000000000003,
+        "min_gap": 0.8545839193739078,
+        "course_distance_clear": 2.289653650817627,
+        "median_ess": 3.6829013394629957
+      },
+      {
+        "seed": 12,
+        "finished": true,
+        "time": 19.8,
+        "min_gap": 0.6181587765449275,
+        "course_distance_clear": 2.437787603500355,
+        "median_ess": 1.8785113935877507
+      },
+      {
+        "seed": 13,
+        "finished": true,
+        "time": 20.400000000000002,
+        "min_gap": 0.7153631798810969,
+        "course_distance_clear": 1.5154768812110304,
+        "median_ess": 2.552915715539097
+      },
+      {
+        "seed": 14,
+        "finished": true,
+        "time": 18.900000000000002,
+        "min_gap": 0.7920000255963318,
+        "course_distance_clear": 1.2989808656836186,
+        "median_ess": 2.6679393402432328
+      },
+      {
+        "seed": 15,
+        "finished": true,
+        "time": 19.8,
+        "min_gap": 0.8115435738912764,
+        "course_distance_clear": 1.9384918336980757,
+        "median_ess": 3.332677553432377
+      },
+      {
+        "seed": 16,
+        "finished": true,
+        "time": 20.0,
+        "min_gap": 0.7978398556493447,
+        "course_distance_clear": 1.3995639567549893,
+        "median_ess": 8.475501612785383
+      },
+      {
+        "seed": 17,
+        "finished": true,
+        "time": 20.6,
+        "min_gap": 0.7425955919617777,
+        "course_distance_clear": 0.8474855501255901,
+        "median_ess": 2.0810022091357947
+      },
+      {
+        "seed": 18,
+        "finished": true,
+        "time": 19.900000000000002,
+        "min_gap": 0.7031059852210328,
+        "course_distance_clear": 1.1490251935544056,
+        "median_ess": 1.8830526284924243
+      },
+      {
+        "seed": 19,
+        "finished": true,
+        "time": 19.0,
+        "min_gap": 0.7820390920871361,
+        "course_distance_clear": 0.9691638838125504,
+        "median_ess": 2.5753745519080224
+      }
+    ],
+    "raw_speed_gamma_equals_lambda": [
+      {
+        "seed": 0,
+        "finished": true,
+        "time": 19.1,
+        "min_gap": 0.7530398445117525,
+        "course_distance_clear": 1.1870871429439782,
+        "median_ess": 2.3858559183620627
+      },
+      {
+        "seed": 1,
+        "finished": true,
+        "time": 32.4,
+        "min_gap": 0.8338366526342231,
+        "course_distance_clear": 2.60395054817872,
+        "median_ess": 1.8372667456787672
+      },
+      {
+        "seed": 2,
+        "finished": true,
+        "time": 19.8,
+        "min_gap": 0.7981682844993137,
+        "course_distance_clear": 0.8176783276496655,
+        "median_ess": 3.1435424534653524
+      },
+      {
+        "seed": 3,
+        "finished": true,
+        "time": 21.900000000000002,
+        "min_gap": 0.6583787511678374,
+        "course_distance_clear": 1.1671171418011976,
+        "median_ess": 2.6867375365564357
+      },
+      {
+        "seed": 4,
+        "finished": true,
+        "time": 22.0,
+        "min_gap": 0.5622295779682551,
+        "course_distance_clear": 1.465815966722779,
+        "median_ess": 2.5049796855782978
+      },
+      {
+        "seed": 5,
+        "finished": true,
+        "time": 19.900000000000002,
+        "min_gap": 0.716029073609435,
+        "course_distance_clear": 1.3066404488291732,
+        "median_ess": 5.075413076975562
+      },
+      {
+        "seed": 6,
+        "finished": true,
+        "time": 19.5,
+        "min_gap": 0.6230615223487324,
+        "course_distance_clear": 1.801719513573542,
+        "median_ess": 2.517085545266112
+      },
+      {
+        "seed": 7,
+        "finished": true,
+        "time": 19.5,
+        "min_gap": 0.6166147378976754,
+        "course_distance_clear": 0.7259712128739344,
+        "median_ess": 4.247613307030986
+      },
+      {
+        "seed": 8,
+        "finished": false,
+        "time": 40.0,
+        "min_gap": 0.6166493107776854,
+        "course_distance_clear": 0.3080933359254493,
+        "median_ess": 1.9320637281369555
+      },
+      {
+        "seed": 9,
+        "finished": false,
+        "time": 40.0,
+        "min_gap": 0.5522847996756577,
+        "course_distance_clear": 1.302833913921549,
+        "median_ess": 2.0582653322587383
+      },
+      {
+        "seed": 10,
+        "finished": true,
+        "time": 36.4,
+        "min_gap": 0.5675490513305885,
+        "course_distance_clear": 1.8361490844251294,
+        "median_ess": 2.03379040349529
+      },
+      {
+        "seed": 11,
+        "finished": true,
+        "time": 30.200000000000003,
+        "min_gap": 0.7699039097123295,
+        "course_distance_clear": 1.7476766237100876,
+        "median_ess": 2.0462100921149062
+      },
+      {
+        "seed": 12,
+        "finished": true,
+        "time": 32.6,
+        "min_gap": 0.7915265994679215,
+        "course_distance_clear": 1.8268596035635902,
+        "median_ess": 2.055775579387248
+      },
+      {
+        "seed": 13,
+        "finished": true,
+        "time": 26.1,
+        "min_gap": 0.7565135072235105,
+        "course_distance_clear": 1.2365145042515164,
+        "median_ess": 1.959442291732715
+      },
+      {
+        "seed": 14,
+        "finished": false,
+        "time": 40.0,
+        "min_gap": 0.7690524490487334,
+        "course_distance_clear": 1.8989398420564791,
+        "median_ess": 78.04180826411057
+      },
+      {
+        "seed": 15,
+        "finished": true,
+        "time": 20.3,
+        "min_gap": 0.8368425189862843,
+        "course_distance_clear": 1.3218304609664464,
+        "median_ess": 3.3421095225910182
+      },
+      {
+        "seed": 16,
+        "finished": true,
+        "time": 20.3,
+        "min_gap": 0.7137230793375695,
+        "course_distance_clear": 1.1936464528314827,
+        "median_ess": 6.049309319464134
+      },
+      {
+        "seed": 17,
+        "finished": true,
+        "time": 21.5,
+        "min_gap": 0.6843540567020165,
+        "course_distance_clear": 2.6337525960350225,
+        "median_ess": 4.912845426363965
+      },
+      {
+        "seed": 18,
+        "finished": true,
+        "time": 25.0,
+        "min_gap": 0.7537607087604183,
+        "course_distance_clear": 1.2273193222335064,
+        "median_ess": 2.5148551064542084
+      },
+      {
+        "seed": 19,
+        "finished": false,
+        "time": 40.0,
+        "min_gap": 0.748871564260148,
+        "course_distance_clear": 0.5679595646919959,
+        "median_ess": 4.745569851681822
+      }
+    ]
+  }
+}

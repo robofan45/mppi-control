@@ -1,0 +1,58 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mppi-control"
+version = "1.0.0"
+description = "Sampling-based MPPI control that drives a car along a course and around obstacles, with tests that check its answers."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Mahim Trivedi" }]
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+]
+keywords = ["mppi", "model-predictive-control", "path-tracking", "autonomous-vehicles", "robotics", "python"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Education",
+    "Topic :: Scientific/Engineering",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.15", "mypy>=1.10", "scipy>=1.11"]
+
+[project.urls]
+Homepage = "https://github.com/robofan45/mppi-control"
+Repository = "https://github.com/robofan45/mppi-control"
+Issues = "https://github.com/robofan45/mppi-control/issues"
+Collection = "https://github.com/robofan45/Python-Robotics-Projects"
+
+[project.scripts]
+mppi-control = "mppi_control.mppi_control:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
+filterwarnings = ["error"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["F", "E", "W", "UP"]
+ignore = ["E501", "E741", "E402"]
+
+[tool.mypy]
+ignore_missing_imports = true
